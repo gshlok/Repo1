@@ -6,4 +6,5 @@ int main() {
     cout<<"Hello!";
     cout<<"2nd stmt";
     //comment 3
+    //New feature ----
 }
