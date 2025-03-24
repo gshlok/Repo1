@@ -7,4 +7,5 @@ int main() {
     cout<<"2nd stmt";
     //comment 3
     //New feature ----
+    //2nd feature
 }
